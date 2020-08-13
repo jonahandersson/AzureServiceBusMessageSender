@@ -7,4 +7,5 @@ A simple example of message sender using Azure Service Bus Queue.
 
 # AzureServiceBus Overview and Documentation 
 https://jonahandersson.tech/azure-service-bus-a-technical-overview/
+
 https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview#queues
